@@ -1,11 +1,16 @@
 _repo: Star-Pirate_61781
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 61781-h/images/cover.jpg
 creator:
   author:
     agent_name: Kummer, Frederick A.
     gutenberg_agent_id: '51610'
     url: http://www.gutenberg.org/2009/agents/51610
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61781#Star-Pirate
 gutenberg_issued: '2020-04-08'
 gutenberg_type: Text
 identifiers:
